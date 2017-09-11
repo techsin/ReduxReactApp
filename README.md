@@ -6,4 +6,4 @@ Uses actions, reducers, containers, components, redux-promises, fetch api, weath
 
 To be used as a reference for future projects. 
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://github.com/techsin/ReduxReactApp/blob/master/demo.gif?raw=true)
